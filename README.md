@@ -28,3 +28,22 @@ Milestone 6: Puntos de Lagrange y su Estabilidad
 El último milestone abordó la implementación de un método de Runge-Kutta de alto orden y la simulación del problema del cuerpo restringido circular tres-cuerpos. Se determinaron y analizaron los puntos de Lagrange, así como la estabilidad de estos puntos y las órbitas alrededor de ellos.
 
 Este informe proporciona una visión general de los logros alcanzados en cada milestone, destacando la progresión y el enfoque en el estudio de la dinámica celeste mediante métodos numéricos.
+
+Milestone 7: Órbita Periódica de Arenstorf
+Descripción
+Este milestone se enfoca en la integración de la órbita periódica de Arenstorf, un problema celestial complejo que implica la interacción entre dos cuerpos celestiales y un tercer cuerpo más pequeño en órbita alrededor de uno de ellos. El objetivo principal es comparar los resultados obtenidos mediante el método de Gauss-Bulirsch-Stoer (GBS), un Runge-Kutta (RK) embebido y evaluar los tiempos de computación asociados.
+
+Tareas
+Implementación de Órbita Periódica de Arenstorf:
+
+Desarrollar una función para integrar la órbita periódica de Arenstorf utilizando métodos numéricos.
+Comparación entre GBS y RK Embebido:
+
+Utilizar el método de Gauss-Bulirsch-Stoer y un Runge-Kutta embebido para integrar la órbita de Arenstorf.
+Comparar los resultados obtenidos por ambos métodos en términos de precisión y eficiencia.
+Evaluación de Tiempos de Computación:
+
+Medir y comparar los tiempos de computación asociados con la integración de la órbita de Arenstorf utilizando GBS y RK embebido.
+Análisis de Resultados:
+
+Analizar y discutir los resultados obtenidos, destacando las diferencias en la precisión y eficiencia de los métodos utilizados.
