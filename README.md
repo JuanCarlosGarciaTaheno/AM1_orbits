@@ -47,3 +47,7 @@ Medir y comparar los tiempos de computación asociados con la integración de la
 Análisis de Resultados:
 
 Analizar y discutir los resultados obtenidos, destacando las diferencias en la precisión y eficiencia de los métodos utilizados.
+
+<p align="center">
+  <img src=".\Organizacion_de_Modulos.png" alt="Organizacion del Milestone7">
+</p>
